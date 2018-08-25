@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GameDevNG</string>
+
+    <string name="game_dev_ng_name">Game Development Nigeria</string>
+    <string name="game_dev_ng_category">Internet Company</string>
+    <string name="game_dev_ng_hours">Not Available</string>
+
+    <string name="game_dev_ng_telephone">+234-809-999-6854</string>
+    <string name="game_dev_ng_address">112 Isiba Oluwo street, Egbeda, Lagos, 100276</string>
+    <string name="game_dev_ng_website">www.gamedev.ng</string>
+    <string name="game_dev_ng_email">gamedevng@gmail.com</string>
+
+    <string name="game_dev_ng_description">Game Development Nigeria is your one stop destination for game related news in naija.</string>
+
+    <string name="contact_info">Contact Information</string>
+    <string name="telephone_contact_info">Telephone &amp; WhatsApp Business</string>
+    <string name="email_contact_info">Email</string>
+    <string name="website_contact_info">Website</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="icon_email">&#xf0e0;</string>
+    <string name="icon_telephone">&#xf095;</string>
+    <string name="icon_website">&#xf0ac;</string>
+</resources>
